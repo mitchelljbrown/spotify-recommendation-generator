@@ -7,8 +7,8 @@ import json
 import time
 import spotipy
 
-os.environ['SPOTIPY_CLIENT_ID']='80d546f8fec24b6c9d5f957f194dd8fd'
-os.environ['SPOTIPY_CLIENT_SECRET']='260b1cf5f4ca41eb9ebe0db298f9bf0e'
+os.environ['SPOTIPY_CLIENT_ID']=
+os.environ['SPOTIPY_CLIENT_SECRET']=
 os.environ['SPOTIPY_REDIRECT_URI']='http://google.com/'
 
 
