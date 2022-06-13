@@ -1,0 +1,16 @@
+{
+  "inferences": [
+    "1P_Custom_Amazon_Alexa/Echo_Streamers",
+    "1P_Custom_Connected_Speaker_nonSonos_Streamers",
+    "1P_Custom_Samsung_Galaxy_All_Models_Users",
+    "1P_Custom_Samsung_N2_N3_S_Users",
+    "1P_Custom_Samsung_Podcast_Streamers",
+    "1P_Custom_Samsung_TV_Switchers",
+    "1P_Custom_Samsung_Upgraders_Galaxy_S6_S9",
+    "1P_Custom_T-Mobile_Switchers",
+    "Parenting",
+    "Recaptcha_scores_filtered",
+    "Sports & Recreation",
+    "Studying or focusing"
+  ]
+}
